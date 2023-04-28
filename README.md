@@ -8,7 +8,7 @@ GitHub Link: https://github.com/lalit212212/GBWPSO.git
 
 A new Parallel Global Best-Worst Particle Swarm Optimization Algorithm for Solving Optimization Problems is developed and published in 2023.
 
-Please refer to the following paper:
+Please refer and cite to the following paper:
 
 Parallel Global Best-Worst Particle Swarm Optimization Algorithm for Solving Optimization Problems in Applied Soft Computing (2023).
 

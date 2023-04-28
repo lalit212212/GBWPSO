@@ -13,3 +13,5 @@ Please refer to the following paper:
 Parallel Global Best-Worst Particle Swarm Optimization Algorithm for Solving Optimization Problems in Applied Soft Computing (2023).
 
 https://www.sciencedirect.com/science/article/pii/S1568494623003472?via%3Dihub
+
+DoI: https://doi.org/10.1016/j.asoc.2023.110329
